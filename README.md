@@ -77,7 +77,7 @@ wget -q https://raw.githubusercontent.com/7toxic/drknetscript/main/update.sh && 
 ```
 
 ## MENU FOR SCRIPT
-<img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/savagetech56/premium/blob/main/assets/IMG-20250215-WA0003(1).jpg">
+<img width="100%" alt="IMG-20250215-WA0003(1).jpg" src="https://github.com/7toxic/drknetscript/blob/main/assets/drknet.jpg">
 
 ### CONTACT ADMIN !
 savagetech56:
